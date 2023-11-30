@@ -2,6 +2,10 @@
 
 |   时间      | 地点 |                                       | 主讲人 |
 |------------|------|---------------------------------------|--------|
+| 2023-11-25 | 线下 | [回顾](2023-01-14)                     |        |
+| [B站](https://www.bilibili.com/video/BV1AC4y1N7MU/) | | 为什么每个 Java 开发者都需要了解 Scala | 王春森 |
+| [B站](https://www.bilibili.com/video/BV1vc411z7eR/) | | “无模式”GraphQL 开发 | 李国斌 |
+| [B站](https://www.bilibili.com/video/BV1Ae411Z7vN/) | | jdk 并发编程的终极解决方案：虚拟线程 | 亢伟楠 |
 | 2023-01-14 | 线上 | [回顾](2023-01-14)                     |        |
 | [B站](https://www.bilibili.com/video/BV1h14y1M7uD/) | | Tubi的gRPC演进之路 | 张正来 |
 | [B站](https://www.bilibili.com/video/BV1Ls4y1t7uF/) | | Scala与函数式编程 | 袁洋 |
